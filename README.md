@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to Syncra-Music-App (simple and basic Ui app for the initial understanding of Mobile Development) 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
